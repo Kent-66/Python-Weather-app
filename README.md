@@ -38,7 +38,9 @@ Weather-app.py
 ## ディレクトリ構成
 Python-Weather-app  
 └── Weather-app.py  
-└── README.md
+└── README.md  
+└── Weather-app 01.png  
+└── Weather-app 02.png
 
 ## 開発目的
 Pythonの学習を目的として、実際に使えるアプリケーションの開発に取り組みました。  
